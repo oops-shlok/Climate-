@@ -240,7 +240,7 @@
         android:layout_height="43dp"
         android:fontFamily="monospace"
         android:gravity="center"
-        android:text="Current Weather"
+        android:text="Current Location"
         android:textColor="#f4f4f4"
         android:textSize="13sp"
         android:textStyle="bold"
@@ -252,7 +252,7 @@
         app:layout_constraintVertical_bias="0.034" />
 
     <TextView
-        android:id="@+id/textView10"
+        android:id="@+id/temp_input"
         android:layout_width="148dp"
         android:layout_height="71dp"
         android:text="TextView"
